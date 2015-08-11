@@ -74,5 +74,19 @@ API Reference
 
  2.[Image Of Lord Ganesha](https://github.com/Randive/Test/edit/master/README.md)
  
+ #
+ 
+ <html>
+ <body>
+ <table>
+ <tr><td>Method</td><td>URI</td><td>Description</td></tr>
+ <tr></tr>
+ <tr><td>GET</td><td>/</td><td>Lists information about all Identity API versions.</td></tr>
+ <tr><td>GET</td><td>/v3</td><td>Shows details for the Identity API v3..</td></tr>
+ <tr><td>POST</td><td>/v3/auth/tokens</td><td>Authenticates and generates a token.</td></tr>
+ </table>
+ </body>
+ </html>
+ 
 
                         
