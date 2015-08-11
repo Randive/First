@@ -1,3 +1,26 @@
+**Text in json format**
+
+```
+{
+"version": {
+"id": "v3.4",
+"links": [
+{
+"href": "http://localhost:35357/v3/",
+"rel": "self"
+}
+],
+"media-types": [
+{
+"base": "application/json",
+"type": "application/vnd.openstack.identity-v3+json"
+}
+],
+"status": "stable",
+"updated": "2015-03-30T00:00:00Z"
+}
+}
+```
 
 
 API Reference   
