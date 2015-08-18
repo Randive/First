@@ -69,6 +69,7 @@ API Reference
         
         2.1.3. Assign role to user
         
+        
         2.1.4. Check role for user
         
     2.2. Key Distribution Server (KDS) extension (OS-KDS)
